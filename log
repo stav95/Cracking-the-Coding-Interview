@@ -1,0 +1,26 @@
+1.2:
+    numpy
+
+1.7:
+    typing import List
+
+1.8:
+    typing import List
+    copy import deepcopy
+
+3.5:
+    typing import List
+
+
+4.main:
+    networkx as nx
+
+4.2:
+    random
+    math
+    typing from List, Dict
+
+4.3:
+    typing from List, Dict
+
+pip install networkx
